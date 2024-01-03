@@ -54,7 +54,7 @@ stock_info.write_file("rsi_results.csv", rsi_header, rsi_data)
 ## Examples
 ### Basic Usage:
 ```python
-from stockinfo import StockInfo
+from stockinfoain1001 import StockInfo
 
 # Load historical data
 stock_info = StockInfo()
@@ -74,7 +74,7 @@ stock_info.write_file("rsi_results.csv", rsi_header, rsi_data)
 ```
 ### Custom Data File and Output Directory:
 ```python
-from stockinfo import StockInfo
+from stockinfoain1001 import StockInfo
 
 # Load historical data
 stock_info = StockInfo()
