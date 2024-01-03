@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r /Users/Shrimpstanot/PycharmProjects/AIN-1001/assignments/stockinfo/requirements.txt
+        pip install -r assignments/stockinfo/requirements.txt
 
     - name: Build and publish package
       run: |
