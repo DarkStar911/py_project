@@ -7,12 +7,12 @@ StockInfo is a Python package for loading historical stock data, calculating Sim
 You can install StockInfo using pip:
 
 ```bash
-pip install stockinfo
+pip install stockinfoain1001
 ```
 ## Usage
 ### Loading historical data:
 ```python
-from stockinfo import StockInfo
+from stockinfoain1001 import StockInfo
 
 # Create an instance of the StockInfo class
 stock_info = StockInfo()

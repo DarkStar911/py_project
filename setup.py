@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package for loading historical stock data, calculating SMA
 
 # Setting up
 setup(
-    name="stockinfo",
+    name="stockinfoain1001",
     version=VERSION,
     author="Abdurrahman Javat",  # Update with your name
     author_email="<abdurrahman.javat@bahcesehir.edu.tr>",  # Update with your email
